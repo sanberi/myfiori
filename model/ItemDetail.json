@@ -1,0 +1,41 @@
+[{
+	"LimitDetails": {
+		"LimitDescription": "\"\"",
+		"IsValueUnLimited": "\"\"",
+		"ValueLimit": 0,
+		"ExpectedValue": 0,
+		"Currency": ""
+	},
+	"ProductDetails": {
+		"ItemType": "M",
+		"MaterialID": "AEM_MAT",
+		"MaterialGroupDescription": "Material group 1",
+		"MaterialGroup": "01"
+	},
+	"DeliveryAddress": {
+		"Plant": "1000",
+		"PlantName": "Werk Hamburg",
+		"AddressString": "Alsterdorfer Strasse 13, 22299 Hamburg-Alsterdorf, Germany"
+	},
+	"SAP__Origin": "Q7D_004",
+	"ItemNumber": "00010",
+	"PoNumber": "4500019701",
+	"ItemNumberFormatted": "10",
+	"PoNumberFormatted": "4500019701",
+	"Description": "fiori mat",
+	"Unit": "PCE",
+	"UnitDescription": "Piece",
+	"Quantity": "50",
+	"Value": 2500,
+	"Currency": "EUR",
+	"PricePerUnit": 50,
+	"CurrencyForPPU": "EUR",
+	"QuantityForPPU": "1",
+	"UnitForPPU": "EA",
+	"UnitForPPUDescription": "each",
+	"DeliveryDate": "/Date(1422572400000)/",
+	"DeliveryDateAlsoLater": "",
+	"NumberOfNotes": 0,
+	"NumberOfAttachments": 0,
+	"NumberServiceLines": 0
+}]

@@ -1,0 +1,8 @@
+{ "application" : "ui.s2p.mm.purchorder.approve",
+  "version" : "1.5.12",
+  "buildNumber" : "50",
+  "buildId" : "2015-04-30_14-52-54",
+  "branch" : "${env.GIT_BRANCH}",
+  "revision" : "${env.GIT_COMMIT}",
+  "GitURL" : "${env.GIT_URL}"
+}

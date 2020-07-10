@@ -1,0 +1,31 @@
+[{
+	"HeaderInfo": {
+		"CumulatedAccountingTypeCode": "2",
+		"CumulatedAccountingTypeCodeName": "Multiple Assignments"
+	},
+	"SAP__Origin": "Q7D_004",
+	"WorkitemID": "000001728419",
+	"PoNumber": "4500019799",
+	"PoNumberFormatted": "4500019799",
+	"WiCreatedAt": "/Date(1421362800000)/",
+	"PaymentTerm": "ZB01",
+	"PaymentTermDescription": "14 days 3%, 30/2%, 45 net",
+	"Incoterm": "EXW",
+	"IncotermDescription": "Ex Works",
+	"IncotermLocation": "Berlin",
+	"CompanyCode": "1000",
+	"CompanyCodeDescription": "IDES AG",
+	"CreatedByID": "HOLZWARTHC",
+	"CreatedByName": "Christian Holzwarth",
+	"NumberOfNotes": 0,
+	"NumberOfAttachments": 0,
+	"Value": 511000,
+	"Currency": "EUR",
+	"SupplierID": "AGENCY28",
+	"SupplierName": "Real Estate Agency Hamburg",
+	"NumberOfItems": 4,
+	"Plant": "1000",
+	"PlantName": "Werk Hamburg",
+	"DeliveryDate": "/Date(1416870000000)/",
+	"DeliveryDateAlsoLater": "X"
+}]
